@@ -4,3 +4,5 @@ apa
 lapta
 portocala 
 banana
+mere
+pere

@@ -2,3 +2,5 @@ cartofi
 poaine
 apa
 lapta
+portocala 
+banana
